@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\PCS.CPMS.DAL\PCS.CPMS.DAL\bin\Debug\netcoreapp3.1\PCS.CPMS.DAL.deps.json
+C:\Users\user\source\repos\PCS.CPMS.DAL\PCS.CPMS.DAL\bin\Debug\netcoreapp3.1\PCS.CPMS.DAL.runtimeconfig.json
+C:\Users\user\source\repos\PCS.CPMS.DAL\PCS.CPMS.DAL\bin\Debug\netcoreapp3.1\PCS.CPMS.DAL.runtimeconfig.dev.json
+C:\Users\user\source\repos\PCS.CPMS.DAL\PCS.CPMS.DAL\bin\Debug\netcoreapp3.1\PCS.CPMS.DAL.dll
+C:\Users\user\source\repos\PCS.CPMS.DAL\PCS.CPMS.DAL\bin\Debug\netcoreapp3.1\PCS.CPMS.DAL.pdb
+C:\Users\user\source\repos\PCS.CPMS.DAL\PCS.CPMS.DAL\bin\Debug\netcoreapp3.1\PCS.CPMS.BL.dll
+C:\Users\user\source\repos\PCS.CPMS.DAL\PCS.CPMS.DAL\bin\Debug\netcoreapp3.1\PCS.CPMS.BL.pdb
+C:\Users\user\source\repos\PCS.CPMS.DAL\PCS.CPMS.DAL\obj\Debug\netcoreapp3.1\PCS.CPMS.DAL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PCS.CPMS.DAL\PCS.CPMS.DAL\obj\Debug\netcoreapp3.1\PCS.CPMS.DAL.AssemblyInfo.cs
+C:\Users\user\source\repos\PCS.CPMS.DAL\PCS.CPMS.DAL\obj\Debug\netcoreapp3.1\PCS.CPMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PCS.CPMS.DAL\PCS.CPMS.DAL\obj\Debug\netcoreapp3.1\PCS.CPMS.DAL.csproj.CopyComplete
+C:\Users\user\source\repos\PCS.CPMS.DAL\PCS.CPMS.DAL\obj\Debug\netcoreapp3.1\PCS.CPMS.DAL.dll
+C:\Users\user\source\repos\PCS.CPMS.DAL\PCS.CPMS.DAL\obj\Debug\netcoreapp3.1\PCS.CPMS.DAL.pdb
+C:\Users\user\source\repos\PCS.CPMS.DAL\PCS.CPMS.DAL\obj\Debug\netcoreapp3.1\PCS.CPMS.DAL.genruntimeconfig.cache
+C:\Users\user\source\repos\PCS.CPMS.DAL\PCS.CPMS.DAL\obj\Debug\netcoreapp3.1\PCS.CPMS.DAL.csprojAssemblyReference.cache
