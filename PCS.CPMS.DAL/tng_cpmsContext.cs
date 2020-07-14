@@ -109,6 +109,7 @@ namespace PCS.CPMS.DAL
 
             protected override void OnModelCreating(ModelBuilder modelBuilder)
             {
+
                 modelBuilder.Entity<Afcaction>(entity =>
                 {
                     entity.HasNoKey();

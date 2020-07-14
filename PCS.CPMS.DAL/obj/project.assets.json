@@ -5149,11 +5149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\PCS.CPMS.DAL\\PCS.CPMS.DAL\\PCS.CPMS.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\yowthung\\PCS.CPMS.DAL\\PCS.CPMS.DAL\\PCS.CPMS.DAL.csproj",
       "projectName": "PCS.CPMS.DAL",
-      "projectPath": "C:\\Users\\user\\source\\repos\\PCS.CPMS.DAL\\PCS.CPMS.DAL\\PCS.CPMS.DAL.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\yowthung\\PCS.CPMS.DAL\\PCS.CPMS.DAL\\PCS.CPMS.DAL.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\PCS.CPMS.DAL\\PCS.CPMS.DAL\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\yowthung\\PCS.CPMS.DAL\\PCS.CPMS.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
