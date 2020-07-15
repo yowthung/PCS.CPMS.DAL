@@ -7,9 +7,15 @@ using PCS.CPMS.DAL;
 /// <summary>
 /// this is a testing
 /// </summary>
+
+/// 
+
+=======
 ///
 /// <example> THIS IS A TESTING FOR TEST2MIKE</example> 
 ///
+
+/// <exception cref="TESTING 3 TEST1MIKE"
 
 
 namespace PCS.CPMS.DAL
