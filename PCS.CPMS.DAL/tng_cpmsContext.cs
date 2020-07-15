@@ -4,7 +4,9 @@ using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.Extensions.Configuration;
 using PCS.CPMS.BL.Models;
 using PCS.CPMS.DAL;
-
+/// <summary>
+/// this is a testing
+/// </summary>
 namespace PCS.CPMS.DAL
 {
         public partial class tng_cpmsContext : DbContext
